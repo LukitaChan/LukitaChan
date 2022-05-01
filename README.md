@@ -2,7 +2,7 @@
 ### Hola, soy LukitaChan 🌸 🌸 🌸
 <img src="https://scontent.fmid2-1.fna.fbcdn.net/v/t39.30808-6/275493041_5634967459864292_6133891615176403442_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeF2_uun0rLZQAVeoahH0zwzNFU4iUyPX9c0VTiJTI9f184sIwDOrI8TnO-rjyLCgqmOwnSqp8Cu_usItl2K-fyG&_nc_ohc=0uhpLyj-WHMAX8M4U2_&_nc_ht=scontent.fmid2-1.fna&oh=00_AT-s-FzhvpWjBfBxpqDFlZv4jzyQMStOs4dV1yU3uXyDmg&oe=626D84F4" align="center" height="auto" width="auto"></img>
 #
-Hi everyone, im **LukitaChan/LukitaChan**. I'm ✨ _I'm Full Stack Engineer_ ✨.
+Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
 
 - Programming Languages
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="center" height="25" width="auto"> HTML</img>
