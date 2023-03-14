@@ -22,7 +22,7 @@ Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
 
 
 - 🌱 I’m currently learning ...
-  - Learning Node.js
+  - Flutter/Dart
 
 - ⭐ Some things about me:
   - I love animals. We have a cute dog called "Galleta" 🐶
