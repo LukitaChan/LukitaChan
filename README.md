@@ -8,10 +8,12 @@ Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="center" height="25" width="auto"> HTML</img>
   - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" align="center" height="25" width="auto"> CSS </img>
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="center" height="25" width="auto"> Javascript </img>
+  - <img src="https://img.icons8.com/color/256/dart.png" align="center" height="25" width="auto"> Dart </img>
  
 - Libraries / Frameworks
   - <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" align="center" height="25" width="auto"> React </img>
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" align="center" height="25" width="auto"> Bootstrap </img>
+  - <img src="https://img.icons8.com/color/256/flutter.png" align="center" height="25" width="auto"> Flutter </img>
 
 - Backend / Database
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" align="center" height="25" width="auto"> NodeJS </img>
