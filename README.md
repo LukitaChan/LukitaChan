@@ -2,18 +2,21 @@
 ### Hola, soy LukitaChan 🌸 🌸 🌸
 <img src="https://i.ibb.co/KWZwvJ3/275493041-5634967459864292-6133891615176403442-n.jpg" alt="Kocho" align="center" height="auto" width="auto"></img>
 #
-Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
+Hi everyone, im **LukitaChan** ✨ _I'm Front End Engineer_ ✨.
 
 - Programming Languages
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="center" height="25" width="auto"> HTML</img>
   - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" align="center" height="25" width="auto"> CSS </img>
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="center" height="25" width="auto"> Javascript </img>
+  - <img src="https://img.icons8.com/color/96/php.png" align="center" height="25" width="auto"> PHP </img>
   - <img src="https://img.icons8.com/color/256/dart.png" align="center" height="25" width="auto"> Dart </img>
  
 - Libraries / Frameworks
   - <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" align="center" height="25" width="auto"> React </img>
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" align="center" height="25" width="auto"> Bootstrap </img>
+  - <img src="https://img.icons8.com/color/96/tailwindcss.png" align="center" height="25" width="auto"> Tailwind </img>
   - <img src="https://img.icons8.com/color/256/flutter.png" align="center" height="25" width="auto"> Flutter </img>
+  - <img src="https://img.icons8.com/stickers/100/laravel.png" align="center" height="25" width="auto"> Laravel </img>
 
 - Backend / Database
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" align="center" height="25" width="auto"> NodeJS </img>
@@ -24,7 +27,7 @@ Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
 
 
 - 🌱 I’m currently learning ...
-  - Flutter/Dart
+  - PHP/Laravel
 
 - ⭐ Some things about me:
   - I love animals. We have a cute dog called "Galleta" 🐶
@@ -35,6 +38,7 @@ Hi everyone, im **LukitaChan** ✨ _I'm Full Stack Engineer_ ✨.
 
 - ⚡ Fun fact:
   - I love sleep 🛌
+  - Drink Coffee
 
  
 - ☑️ Check my social webs 😸
