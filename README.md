@@ -8,6 +8,7 @@ Hi everyone, im **LukitaChan** ✨ _I'm Front End Engineer_ ✨.
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="center" height="25" width="auto"> HTML</img>
   - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" align="center" height="25" width="auto"> CSS </img>
   - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="center" height="25" width="auto"> Javascript </img>
+  - <img src="https://www.svgrepo.com/show/374144/typescript.svg" align="center" height="25" width="auto"> Typescript </img>
   - <img src="https://img.icons8.com/color/96/php.png" align="center" height="25" width="auto"> PHP </img>
   - <img src="https://img.icons8.com/color/256/dart.png" align="center" height="25" width="auto"> Dart </img>
  
